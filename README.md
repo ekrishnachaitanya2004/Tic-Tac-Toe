@@ -92,3 +92,11 @@ while True:
     # Check for winner or draw
     # Switch player
 ```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Additional Notes:
+- The "How to Play" section provides step-by-step instructions for playing the game.
+- The "Game Algorithm" section breaks down the logic used in the implementation, which can be useful for anyone looking to understand or modify the code.
